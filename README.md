@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Daniel Victor
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Daniel Victor Batista, tenho 18 anos e moro no Distrito Federal. Atualmente curso Análise e Desenvolvimento de Sistemas e estou construindo minha base na área de tecnologia por meio de estudos constantes e projetos pessoais. Sou uma pessoa muito dedicada ao que me proponho a fazer. No meu tempo livre, gosto de ler, assistir algo, jogar videogame e frequentar a academia. Meu objetivo é evoluir tanto no lado pessoal quanto no profissional, buscando sempre aprender mais e crescer na área de desenvolvimento.
 
@@ -48,19 +48,3 @@ Me chamo Daniel Victor Batista, tenho 18 anos e moro no Distrito Federal. Atualm
 <img align="left" alt="IntelliJ" title="IntelliJ IDEA" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 
 <br/><br/><br/>
-
----
-
-📊 Estatísticas do GitHub
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ielzinh0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
-<br/><br/><br/><br/>
