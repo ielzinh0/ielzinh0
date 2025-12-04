@@ -52,6 +52,15 @@ Me chamo Daniel Victor Batista, tenho 18 anos e moro no Distrito Federal. Atualm
 ---
 
 📊 Estatísticas do GitHub
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ielzinh0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> </p>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ielzinh0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
 
 <br/><br/><br/><br/>
