@@ -22,7 +22,7 @@ Me chamo Daniel Victor Batista, tenho 18 anos e moro no Distrito Federal. Atualm
             src="https://custom-icon-badges.demolab.com/github/followers/ielzinh0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-   <a href="https://www.linkedin.com/in/seu-linkedin/">
+   <a href="https://www.linkedin.com/in/ielzinh0/">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
