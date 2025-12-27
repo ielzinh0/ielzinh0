@@ -29,7 +29,7 @@ Me chamo Daniel Victor Batista, tenho 18 anos e moro no Distrito Federal. Atualm
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-   <a href="(https://www.instagram.com/_.daniel.bsb/)/">
+   <a href="https://www.instagram.com/_.daniel.bsb/">
         <img 
             alt="Instagram" 
             title="Meu Instagram" 
